@@ -1,4 +1,4 @@
 #!/bin/bash
-cat head /etc/passwd
+head /etc/passwd
 
 

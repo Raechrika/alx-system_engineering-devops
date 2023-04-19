@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf f '%x\n $DECIMAL
+prinf f '%ox\n $DECIMAL

@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf f '%ox\n $DECIMAL
+printf '%x\n' $DECIMAL
